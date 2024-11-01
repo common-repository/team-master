@@ -1,0 +1,321 @@
+# Copyright (C) 2019 Team Master
+# This file is distributed under the same license as the Team Master package
+"Project-Id-Version: Team Master 1.0.4\n"
+"POT-Creation-Date: 2019-09-24 12:40+0500\n"
+"PO-Revision-Date: 2019-09-24 12:40+0500\n"
+"Last-Translator: Adnan Moqsood <adnanmughal70@gmail.com>\n"
+"Language-Team: Adnan Moqsood <adnanmughal70@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-KeywordsList: __;_e;gettext;gettext_noop\n"
+"X-Poedit-Basepath: /wp-content/plugins/power-forms\n"
+
+
+#: admin/team/class-team-master-post-type-admin.php:68
+msgid "Add New"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:69
+msgid "Add New Member"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:70
+msgid "All Members"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:71
+msgid "Edit Member"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:72
+msgid "Team"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:73
+msgid "Members"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:74
+msgid "Member"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:74
+msgid "Member"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:75
+msgid "New Member"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:76
+msgid "No Members Found"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:77
+msgid "No Members Found in Trash"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:78
+msgid "Parent Members"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:79
+msgid "Search Members"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:81
+msgid "View Member"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:83
+msgid "Member Image (Resolution : 500 * 500 - for better presentation)"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:84
+msgid "Set Member Image"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:85
+msgid "Remove Member Image"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:86
+msgid "Use as Member Image"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:87
+msgid "Insert into item"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:88
+msgid "Upload to this item"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:97
+msgid "Roles"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:98
+msgid "Role"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:99
+msgid "Search Role"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:100
+msgid "All Roles"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:101
+msgid "Parent Role"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:103
+msgid "Edit Role"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:104
+msgid "Update Role"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:105
+msgid "Add New Role"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:106
+msgid "New Role Name"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:134
+msgid "Member Information"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:153
+msgid "Designation"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:155
+msgid "Please enter member designation"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:158
+msgid "Email"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:163
+msgid "Phone"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:165
+msgid "Please enter your phone number"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:169
+msgid "Short Description (In 150 characters or less)"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:174
+msgid "Social Media"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:258
+msgid "Name"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:260
+msgid "Image"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:261
+msgid "Date"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:261
+msgid "Date"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:289
+#: admin/team/team-master-usage.php:182
+msgid "Shortcode"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:307
+msgid "Settings"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:366
+msgid "Authentication Error, Please try again"
+msgstr ""
+
+#: admin/team/class-team-master-post-type-admin.php:391
+msgid "Members Retrived!"
+msgstr ""
+
+#: admin/team/team-master-settings.php:7
+#: admin/team/team-master-usage.php:7
+msgid "Team Master Settings"
+msgstr ""
+
+#: admin/team/team-master-settings.php:14
+#: admin/team/team-master-usage.php:14
+msgid "Select Templates"
+msgstr ""
+
+#: admin/team/team-master-settings.php:31
+#: admin/team/team-master-usage.php:55
+msgid "Template Styling"
+msgstr ""
+
+#: admin/team/team-master-settings.php:35
+#: admin/team/team-master-usage.php:59
+msgid "Background Color"
+msgstr ""
+
+#: admin/team/team-master-settings.php:40
+#: admin/team/team-master-usage.php:64
+msgid "Font Color"
+msgstr ""
+
+#: admin/team/team-master-settings.php:45
+#: admin/team/team-master-usage.php:69
+msgid "Button Background Color"
+msgstr ""
+
+#: admin/team/team-master-settings.php:50
+#: admin/team/team-master-usage.php:74
+msgid "Button Color"
+msgstr ""
+
+#: admin/team/team-master-settings.php:57
+#: admin/team/team-master-usage.php:83
+msgid "Display Settings"
+msgstr ""
+
+#: admin/team/team-master-settings.php:62
+#: admin/team/team-master-usage.php:88
+msgid "Columns/Slides to Show?"
+msgstr ""
+
+#: admin/team/team-master-settings.php:71
+#: admin/team/team-master-usage.php:97
+msgid "Members to Show/Scroll?"
+msgstr ""
+
+#: admin/team/team-master-settings.php:96
+#: admin/team/team-master-usage.php:122
+msgid "Display Load More Button?"
+msgstr ""
+
+#: admin/team/team-master-settings.php:112
+#: admin/team/team-master-usage.php:139
+msgid "Carousel Settings"
+msgstr ""
+
+#: admin/team/team-master-settings.php:116
+#: admin/team/team-master-usage.php:143
+msgid "Activate?"
+msgstr ""
+
+#: admin/team/team-master-settings.php:130
+#: admin/team/team-master-usage.php:157
+msgid "Auto Play?"
+msgstr ""
+
+#: admin/team/team-master-settings.php:147
+msgid "Save Changes"
+msgstr ""
+
+#: admin/team/team-master-usage.php:173
+msgid "Generate"
+msgstr ""
+
+#: admin/team/team-master-settings.php:156
+#: admin/team/team-master-usage.php:188
+msgid "Support"
+msgstr ""
+
+#: admin/team/team-master-settings.php:159
+#: admin/team/team-master-usage.php:191
+msgid "We have some resources available to help you in the right direction."
+msgstr ""
+
+#: admin/team/team-master-settings.php:160
+#: admin/team/team-master-usage.php:192
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: admin/team/team-master-settings.php:161
+#: admin/team/team-master-usage.php:193
+msgid "If your answer can not be found in the resources listed above, please use the support forums on WordPress.org"
+msgstr ""
+
+#: admin/team/team-master-settings.php:162
+#: admin/team/team-master-usage.php:194
+msgid "Contact Us"
+msgstr ""
+
+#: admin/team/team-master-settings.php:163
+#: admin/team/team-master-usage.php:195
+msgid "Please send us your queries Email Us"
+msgstr ""
+
+#: admin/team/team-master-settings.php:168
+#: admin/team/team-master-usage.php:200
+msgid "Rate Us"
+msgstr ""
+
+#: admin/team/team-master-settings.php:171
+#: admin/team/team-master-usage.php:203
+msgid "Please take a moment to rate our efforts for further improvement in this plugin"
+msgstr ""
+
+#: admin/team/team-master-usage.php:35
+msgid "Choose Members Group"
+msgstr ""
+
+#: admin/team/team-master-usage.php:49
+msgid "Exclude Members"
+msgstr ""
